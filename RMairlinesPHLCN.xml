@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">RMAirlines PHLCN</name>
+            <texture>Liveries-300/RMairlinesPHLCN.png</texture>
+        </livery>
+    </model>
+    <aircraft-class>gate</aircraft-class>
+    <aircraft-operator>RMAir</aircraft-operator>
+</sim>
+</PropertyList>
